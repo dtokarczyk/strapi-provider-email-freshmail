@@ -1,7 +1,7 @@
 {
   "name": "strapi-provider-email-freshmail",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "https://github.com/dtokarczyk/strapi-provider-email-freshmail",
   "author": "Damian Tokarczyk <damian.tokarczyk@gmail.com>",
   "license": "MIT",
