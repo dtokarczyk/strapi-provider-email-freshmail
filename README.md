@@ -8,12 +8,14 @@
 
 ## Installation
 
+Currently It's not official provider in @strapi scope. But you should install package as @strapi/provider-email-freshmail for catch by Strapi.
+
 ```bash
 # using yarn
-yarn add @strapi/provider-email-freshmail
+yarn add @strapi/provider-email-freshmail@npm:strapi-provider-email-freshmail
 
 # using npm
-npm install @strapi/provider-email-freshmail --save
+npm i @strapi/provider-email-freshmail@npm:strapi-provider-email-freshmail --save
 ```
 
 ### Example
